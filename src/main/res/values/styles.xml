@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPurple</item> <!--ToolBar-->
+        <item name="colorPrimaryDark">@color/colorBlack</item> <!--notification bar-->
+        <item name="colorAccent">@color/colorWhite</item>
+        <item name="android:windowBackground">@color/colorWhite</item> <!--Background-->
+    </style>
+    <!--Theme at the cropping page-->
+    <style name="CropTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPurple</item> <!--ToolBar-->
+        <item name="colorPrimaryDark">@color/colorBlack</item> <!--notification bar-->
+        <item name="colorAccent">@color/colorWhite</item>
+        <item name="android:windowBackground">@color/colorWhite</item> <!--Background-->
+    </style>
+</resources>

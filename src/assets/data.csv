@@ -1,0 +1,128 @@
+0,Types of Ingredients,What They Do,Names Found on Product Labels
+1,Preservatives,Prevent food spoilage,Ascorbic acid
+2,Preservatives,Prevent food spoilage,Citric acid
+3,Preservatives,Prevent food spoilage,Sodium benzoate
+4,Preservatives,Prevent food spoilage,Calcium propionate
+5,Preservatives,Prevent food spoilage,Sodium erythorbate
+6,Preservatives,Prevent food spoilage,Sodium nitrite
+7,Preservatives,Prevent food spoilage,Calcium sorbate
+8,Preservatives,Prevent food spoilage,Potassium sorbate
+9,Preservatives,Prevent food spoilage,BHA
+10,Preservatives,Prevent food spoilage,BHT
+11,Preservatives,Prevent food spoilage,EDTA
+12,Preservatives,Prevent food spoilage,Tocopherols (Vitamin E)
+13,Preservatives,Prevent food spoilage,Tocopherols
+14,Sweeteners,Add sweetness with or without the extra calories,Sucrose
+15,Sweeteners,Add sweetness with or without the extra calories,Sugar
+16,Sweeteners,Add sweetness with or without the extra calories,Glucose
+17,Sweeteners,Add sweetness with or without the extra calories,Fructose
+18,Sweeteners,Add sweetness with or without the extra calories,Sorbitol
+19,Sweeteners,Add sweetness with or without the extra calories,Mannitol
+20,Sweeteners,Add sweetness with or without the extra calories,Corn syrup
+21,Sweeteners,Add sweetness with or without the extra calories,Saccharin
+22,Sweeteners,Add sweetness with or without the extra calories,Aspartame
+23,Sweeteners,Add sweetness with or without the extra calories,Sucralose
+24,Sweeteners,Add sweetness with or without the extra calories,Acesulfame potassium
+25,Sweeteners,Add sweetness with or without the extra calories,Acesulfame-K
+26,Sweeteners,Add sweetness with or without the extra calories,Neotame
+27,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Blue Nos. 3
+28,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Blue Nos. 4
+29,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Green No. 5
+30,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Red Nos. 5
+31,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Red Nos. 42
+32,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Yellow Nos. 7
+33,Color Additives,Offset color loss due to various exposures and enhance colors,FD&C Yellow Nos. 8
+34,Color Additives,Offset color loss due to various exposures and enhance colors,F Orange B
+35,Color Additives,Offset color loss due to various exposures and enhance colors,Citrus Red No. 4
+36,Color Additives,Offset color loss due to various exposures and enhance colors,Annatto extract
+37,Color Additives,Offset color loss due to various exposures and enhance colors,Beta-carotene
+38,Color Additives,Offset color loss due to various exposures and enhance colors,Grape skin extract
+39,Color Additives,Offset color loss due to various exposures and enhance colors,Cochineal Carmine
+40,Color Additives,Offset color loss due to various exposures and enhance colors,Cochineal extract
+41,Color Additives,Offset color loss due to various exposures and enhance colors,Carmine
+42,Color Additives,Offset color loss due to various exposures and enhance colors,Paprika oleoresin
+43,Color Additives,Offset color loss due to various exposures and enhance colors,Caramel color
+44,Color Additives,Offset color loss due to various exposures and enhance colors,Fruit juice
+45,Color Additives,Offset color loss due to various exposures and enhance colors,Vegetable juice
+46,Color Additives,Offset color loss due to various exposures and enhance colors,Saffron
+47,Color Additives,Offset color loss due to various exposures and enhance colors,Colorings
+48,Color Additives,Offset color loss due to various exposures and enhance colors,Color
+49,Flavors and Spices,Add specific flavors (natural and synthetic),Natural flavoring
+50,Flavors and Spices,Add specific flavors (natural and synthetic),Artificial flavor
+51,Flavors and Spices,Add specific flavors (natural and synthetic),Spices
+52,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),Monosodium glutamate
+53,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),MSG
+54,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),Hydrolyzed soy protein
+55,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),Autolyzed yeast extract
+56,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),Disodium guanylate
+57,Flavor Enhancers,Enhance flavors already present in foods (without providing their own separate flavor),Disodium inosinate
+58,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Olestra
+59,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Cellulose gel
+60,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Carrageenan
+61,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Polydextrose
+62,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Modified food starch
+63,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Modified starch
+64,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Food starch
+65,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Starch
+66,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Microparticulated egg white protein
+67,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Guar gum
+68,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Xanthan gum
+69,Fat Replacers,Provide expected texture and a creamy mouth-feel in reduced-fat foods,Whey protein concentrate
+70,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Thiamine hydrochloride
+71,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Riboflavin (Vitamin B2)
+72,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Riboflavin
+73,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Niacin
+74,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Niacinamide
+75,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Folate
+76,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Folic acid
+77,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Beta carotene
+78,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Potassium iodide
+79,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Iron sulfate
+80,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Ferrous sulfate
+81,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Alpha tocopherols
+82,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Ascorbic acid
+83,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Vitamin D
+84,Nutrients,Replace vitamins and minerals lost in processing (enrichment),"Amino acids (L-tryptophan, L-lysine, L-leucine, L-methionine)"
+85,Nutrients,Replace vitamins and minerals lost in processing (enrichment),L-tryptophan
+86,Nutrients,Replace vitamins and minerals lost in processing (enrichment),L-lysine
+87,Nutrients,Replace vitamins and minerals lost in processing (enrichment),L-leucine
+88,Nutrients,Replace vitamins and minerals lost in processing (enrichment),L-methionine
+89,Nutrients,Replace vitamins and minerals lost in processing (enrichment),Amino acids
+90,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Soy lecithin
+91,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Monoglycerides
+92,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Diglycerides
+93,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Egg yolks
+94,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Polysorbates
+95,Emulsifiers,Allow smooth mixing of ingredients and prevent separation ,Sorbitan monostearate
+96,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Gelatin
+97,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Pectin
+98,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Guar gum
+99,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Carrageenan
+100,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Xanthan gum
+101,Stabilizers and Thickeners,Produce uniform texture and improve mouth-feel,Whey
+102,pH Control Agents and acidulants,Control acidity/alkalinity and prevent spoilage,Lactic acid
+103,pH Control Agents and acidulants,Control acidity/alkalinity and prevent spoilage,Citric acid
+104,pH Control Agents and acidulants,Control acidity/alkalinity and prevent spoilage,Ammonium hydroxide
+105,pH Control Agents and acidulants,Control acidity/alkalinity and prevent spoilage,Sodium carbonate
+106,Leavening Agents,Promote rising of baked goods,Baking soda
+107,Leavening Agents,Promote rising of baked goods,Monocalcium phosphate
+108,Leavening Agents,Promote rising of baked goods,Calcium carbonate
+109,Anti-caking agents,Keep powdered foods free-flowing and prevent moisture absorption,Calcium silicate
+110,Anti-caking agents,Keep powdered foods free-flowing and prevent moisture absorption,Iron ammonium citrate
+111,Anti-caking agents,Keep powdered foods free-flowing and prevent moisture absorption,Silicon dioxide
+112,Humectants,Retain moisture,Glycerin
+113,Humectants,Retain moisture,Sorbitol
+114,Yeast Nutrients,Promote growth of yeast,Calcium sulfate
+115,Yeast Nutrients,Promote growth of yeast,Ammonium phosphate
+116,Dough Strengtheners and Conditioners,Produce more stable dough,Ammonium sulfate
+117,Dough Strengtheners and Conditioners,Produce more stable dough,Azodicarbonamide
+118,Dough Strengtheners and Conditioners,Produce more stable dough,L-cysteine
+119,Firming Agents,Maintain crispness and firmness,Calcium chloride
+120,Firming Agents,Maintain crispness and firmness,Calcium lactate
+121,Enzyme Preparations,Modify proteins polysaccharides and fats,Enzymes
+122,Enzyme Preparations,Modify proteins polysaccharides and fats,Lactase
+123,Enzyme Preparations,Modify proteins polysaccharides and fats,Papain
+124,Enzyme Preparations,Modify proteins polysaccharides and fats,Rennet
+125,Enzyme Preparations,Modify proteins polysaccharides and fats,Chymosin
+126,Gases,Serve as propellant or create carbonation,Carbon dioxide
+127,Gases,Serve as propellant or create carbonation,Nitrous oxide
